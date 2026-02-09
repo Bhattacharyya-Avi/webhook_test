@@ -1,0 +1,11 @@
+1. create table for package and child project
+2. create model and seeder for package and child project
+3. create controller for package and child project
+4. create a job for send the update to the child project
+
+
+in child project 
+1. create route to Web.php
+2. add route to VerifyCsrfToken
+3. create a controller for webhook WebhookController
+4. add WEBHOOK_TOKEN key to env 
